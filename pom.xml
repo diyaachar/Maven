@@ -55,7 +55,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
    </executions>
    <configuration>
       <serverId>nexus</serverId>
-      <nexusUrl>http://localhost:8081/nexus/</nexusUrl>
+      <nexusUrl>http://localhost:8081/nexus</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>

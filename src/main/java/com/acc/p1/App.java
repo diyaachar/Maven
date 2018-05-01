@@ -1,4 +1,4 @@
-package com.acc.p1
+package com.acc.p1;
 public class App  
 {
 	public static void main(String[] args) 

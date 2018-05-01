@@ -15,7 +15,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
    </snapshotRepository>
 </distributionManagement>
 <!-- new -->
-<pluginManagement>
+ <build>
 <plugins>
 <plugin>
    <artifactId>maven-deploy-plugin</artifactId>
@@ -60,5 +60,6 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
    </configuration>
 </plugin>
 </plugins>
-</pluginManagement>
+
+    </build>
 </project>
